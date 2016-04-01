@@ -284,6 +284,10 @@ node app.js -h [help]
 
 ![Alt text](help.jpg)
 
+## Plans For This App
+
+For MVP 2 I plan on improving what I have and turning the app into a Chrome Extention with a frontend.
+
 
 
 
